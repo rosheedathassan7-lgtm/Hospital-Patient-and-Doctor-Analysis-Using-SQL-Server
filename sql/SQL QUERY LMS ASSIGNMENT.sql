@@ -1,4 +1,3 @@
-USE TWDP
 -- Retrieve all patients from Lagos
 
 SELECT * FROM [dbo].[Patients (2)]
